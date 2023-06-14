@@ -1,0 +1,19 @@
+div.inf p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 37px;
+}
+
+.inf{
+    width: 500px;
+    height: 500px;
+}
+
+th, td{
+    border: 1px solid #e3e3e3;
+}
+
+div.inf1 div{
+    border: 1px solid #4b4b4b;
+    width: 20px;
+    height: 20px;
+}
